@@ -3,11 +3,10 @@ Binary Releases for Linea Programming Language
 
 ## Latest
 
-### Linea 1.2 'Mishka'
+### Linea 1.5 'Mishka'
 
-* Entered Stable Phase
-* Added support for memClear()
-* Added support for ping()
+* Added timeout.
+* Added web.
 
 
-[![Download](https://img.shields.io/badge/Download-v1.2-blue)](https://github.com/gauthamnair2005/Linea-Binaries/releases/tag/v1.2)
+[![Download](https://img.shields.io/badge/Download-v1.5-blue)](https://github.com/gauthamnair2005/Linea-Binaries/releases/tag/v1.5)
