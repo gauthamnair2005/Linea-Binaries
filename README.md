@@ -1,14 +1,14 @@
 # Linea-Binaries
 Binary Releases for Linea Programming Language
 
-## Latest
+## What's new in Linea 2.0 'Coconut'?
 
-⚠️ Binaries for builds 1.7, 1.8 and future builds are stopped, will resume in version 2.0.
+⚠️ Note : Old 1.x code might be incompatible with Linea 2
 
-### Linea 1.5 'Mishka'
+* Revamped the entire codebase to improve performance and maintainability.
+* New style and syntax.
+* Now includes math and weblet libraries in the liblinea main package.
+* Deprecated use of `web` keyword for weblet, instead use weblet method from Core classs of weblet library in liblinea package.
 
-* Added timeout.
-* Added web.
 
-
-[![Download](https://img.shields.io/badge/Download-v1.5-blue)](https://github.com/gauthamnair2005/Linea-Binaries/releases/tag/v1.5)
+[![Download](https://img.shields.io/badge/Download-v2.0-blue)](https://github.com/gauthamnair2005/Linea-Binaries/releases/tag/v2.0)
