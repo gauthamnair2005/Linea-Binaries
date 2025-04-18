@@ -1,6 +1,8 @@
 # Linea-Binaries
 Binary Releases for Linea Programming Language
 
+⚠️ Note : Binary releases of Linea for Windows is discontinuing.! You can rely of source based release.
+
 ⚠️ Note : Old 1.x code might be incompatible with Linea 2
 
 ## What's new in Linea 2.1.0 'Coconut'?
